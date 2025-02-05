@@ -1,0 +1,2 @@
+# deepseek
+deepseek本地部署教程一键安装包-windows电脑deepseek本地运行
