@@ -1,7 +1,7 @@
 # deepseek
 deepseek本地部署教程一键安装包-windows电脑deepseek本地运行
 ​
-关于deepseek 2025/2/21
+关于deepseek 2025/3/8
 最新deepseek r1模型爆火，大家都在讨论，随着deepseek技术的不断发展，越来越多的用户希望在本地环境中快速部署并运行deepseek。本教程将详细介绍如何在Windows电脑上使用一键安装包完成deepseek的本地部署。从下载、解压、文件移动到启动软件，并附带可选的模型扩展步骤，帮助您快速上手并优化使用体验。
 
 1. 下载一键安装包
